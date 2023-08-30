@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'salmanalif'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54BDA141B9DB4F968C6ACF0E4AFD91C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3332F64F35CC4AEBAA2F70B613186C79 }}
